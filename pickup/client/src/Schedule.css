@@ -1,0 +1,72 @@
+
+.scheduleCard {
+  font-family: 'Montserrat';
+  background-color: white;
+  color: black;
+  border: 1px solid;
+  border-color: #bbb;
+  border-radius: 25px;
+  /* Used for centering vertically and horizontally*/
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 800px;
+  height: 700px;
+}
+
+.scheduleHeader {
+  margin: 15px;
+  border-left: solid 5px #FF652F;
+  padding-left: 15px;
+}
+
+.scheduledCourtName {
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.scheduledCourtAddr {
+  font-weight: 400;
+  font-size: 25px;
+  position: relative;
+  top: -10px;
+}
+
+.schedule-inst {
+  font-weight: 400;
+  margin: 15px;
+  font-size: 17px;
+  color: grey;
+}
+
+.calendar {
+  position: relative;
+  left: 220px;
+}
+
+.schedule {
+  font-family: 'Montserrat';
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+
+.schedule-icon-cont {
+  position: absolute;
+  bottom: 70px;
+  right: 145px;
+}
+
+.schedule-type {
+  font-size: 20px;
+  color: #FF652F;
+}
+
+.schedule-buttons {
+  position: absolute;
+  top: 640px;
+  left: 650px;
+}

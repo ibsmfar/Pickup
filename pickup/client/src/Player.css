@@ -1,0 +1,20 @@
+
+.player_taken {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  background-color: #FF652F
+}
+
+.player_not_taken {
+  height: 20px;
+  width: 20px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}

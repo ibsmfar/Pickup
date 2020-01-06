@@ -1,0 +1,27 @@
+
+.currentGameList {
+  position: relative;
+  margin-left: 60px;
+  margin-bottom: 40px;
+}
+
+.logout-btn-user {
+  position: relative;
+  top: 20px;
+  margin-left: 1315px;
+}
+
+.statusDesc {
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+#userstatus {
+  background-color: black;
+  overflow: auto;
+  width: auto;
+  min-height: 450px;
+}

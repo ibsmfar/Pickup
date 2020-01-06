@@ -1,0 +1,68 @@
+
+.currentgame {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  color: white;
+  width: 1200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.currentgame-info {
+  max-width: 920px;
+  border-left: solid 5px #FF652F;
+}
+
+.gametype {
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: #FF652F;
+}
+
+.courtname-current {
+  font-family:'Montserrat';
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 50px;
+  font-weight: 800;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 920px;
+  color: white;
+  overflow: hidden;
+}
+
+.courtaddress-current{
+  font-family:'Montserrat';
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 7px;
+  font-size: 25px;
+  font-weight: 400;
+  position: relative;
+  top: -10px;
+}
+
+.playerlist-current {
+  position: absolute;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 20px;
+  top: 50px;
+  right: 70px;
+}
+
+.player-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.button-current {
+  position: absolute;
+  bottom: 83px;
+  right: 0;
+}

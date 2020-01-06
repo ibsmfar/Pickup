@@ -1,0 +1,16 @@
+
+.courtContainer {
+  overflow: auto;
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 75px;
+  overflow-x: auto;
+  max-width: 1260px;
+}
+
+.allcourts-header {
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 30px;
+}

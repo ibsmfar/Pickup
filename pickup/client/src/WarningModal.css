@@ -1,0 +1,13 @@
+
+.modal-title {
+  font-family: 'Montserrat';
+  font-weight: 800;
+  color: black;
+}
+
+.modal-body {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  color: black;
+  white-space: normal;
+}

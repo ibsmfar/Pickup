@@ -1,0 +1,50 @@
+
+#statusheader {
+  font-family: 'Montserrat';
+}
+
+.sh-banner {
+  display: inline-block;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  overflow: auto;
+  margin: 20px
+}
+
+.sh-greeting {
+  font-weight: 800;
+  color: white;
+  font-size: 100px;
+  max-width: 1100px;
+  min-width: 580px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  float: left;
+}
+
+.sh-pic-container {
+  float: left;
+  height: 150px;
+  width: 150px;
+  margin: 20px;
+  position: relative;
+  top: -20px;
+}
+
+.sh-pic {
+  height: 150px;
+  width: 150px;
+  margin: 0;
+}
+
+.sh-intro {
+  font-weight: 400;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  margin-left: 125px;
+  top: 15px;
+  margin-bottom: 90px;
+}
